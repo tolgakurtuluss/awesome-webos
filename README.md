@@ -267,6 +267,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [webOS Console Home](https://github.com/testtrader1993/webos-console-home) - Console-style home screen with large tiles for HDMI inputs, settings and screen off, installed through Developer Mode without root. Tested on webOS 6.5. ![Stars](https://img.shields.io/github/stars/testtrader1993/webos-console-home?style=flat-square)
 
+- [ATLauncher](https://github.com/ratelimits/atlauncher) - Apple TV-inspired native (QML) home screen with a Liquid Glass Dock, App Store app icons, Top Shelf splashes and TMDB popular shows, for rooted TVs with the Homebrew Channel. Tested on webOS 25 (LG UR8000). ![Stars](https://img.shields.io/github/stars/ratelimits/atlauncher?style=flat-square)
+
 ## Rooting and recovery
 
 > ⚠️ **Caution:** Rooting methods are firmware-specific and may be patched. Verify current compatibility and recovery instructions before proceeding, and read [SAFETY.md](SAFETY.md) first.
