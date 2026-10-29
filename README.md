@@ -1,3 +1,4 @@
+
 # Awesome WebOS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated applications, launchers, homebrew tools, and development resources for webOS TVs.
@@ -45,6 +46,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [Homebrew Channel Updater](https://repo.webosbrew.org/apps/org.webosbrew.safeupdate/) - Keeps the Homebrew Channel up to date.
 
+
+## Apps
 
 ## Media and streaming
 
@@ -110,6 +113,9 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [Nuvio Native Legacy](https://github.com/iqui27/nuvio-native-legacy) - Native media application project for webOS.
 ![Stars](https://img.shields.io/github/stars/iqui27/nuvio-native-legacy?style=flat-square)
 
+- [StremCompat](https://github.com/Alexesmm/stremcompat-lg-webos) - Unofficial Stremio-compatible lightweight app for older ARMv7 LG TVs (2016 - 2019 models/webOS 3.x/4.x), featuring account sync, addon support, quality filters, and native playback. Installs via Developer Mode without root.
+![Stars](https://img.shields.io/github/stars/Alexesmm/stremcompat-lg-webos?style=flat-square)
+
 - [Decoder bench](https://repo.webosbrew.org/apps/io.github.beatcracker.decoderbench/) - Tool for testing the TV's video decoding capabilities.
 
 - [native-jelly](https://github.com/sostk/native-jelly) - A native Jellyfin client adapted from PLX Native, with a modern TV-focused interface and Jellyfin support.
@@ -124,8 +130,7 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [StashWebOS](https://github.com/pustal/StashWebOS) - An unofficial Stash client for LG webOS TVs, made for the remote and careful with the TV's small storage.
 ![Stars](https://img.shields.io/github/stars/pustal/StashWebOS?style=flat-square)
 
-- [StremCompat](https://github.com/Alexesmm/stremcompat-lg-webos) - Unofficial compatibility client for older ARMv7 LG TVs running webOS 3.x and 4.x; installs through Developer Mode without root access.
-![Stars](https://img.shields.io/github/stars/Alexesmm/stremcompat-lg-webos?style=flat-square)
+
 
 ## Games and game streaming
 
@@ -197,6 +202,9 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [RustCouch](https://github.com/danzig666/webos-rustdesk-client) - RustDesk-compatible remote desktop client for controlling a Windows, Linux or macOS computer from the TV with the Magic Remote, on-screen keyboard or a USB/Bluetooth keyboard. Tested on an LG C3.
 ![Stars](https://img.shields.io/github/stars/danzig666/webos-rustdesk-client?style=flat-square)
+
+- [LGTV Companion](https://github.com/JPersson77/LGTVCompanion) - Windows utility that automatically turns LG webOS TVs on and off with the PC, with command-line control and automation support.
+![Stars](https://img.shields.io/github/stars/JPersson77/LGTVCompanion?style=flat-square)
 
 - [Open Service Menu](https://repo.webosbrew.org/apps/com.open.hidden.menu/) - Opens the TV's hidden service menu.
 
