@@ -216,6 +216,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [oscar-cam](https://github.com/larrysweb/oscar-cam) - A free, LAN-only camera grid for rooted LG webOS TVs. No account, no cloud, no telemetry. Camera credentials stay on the TV.
 ![Stars](https://img.shields.io/github/stars/larrysweb/oscar-cam?style=flat-square)
 
+- [G5 System Monitor](https://github.com/Schrotty74/LG-G5-Apps/tree/main/apps/system-monitor) - Read-only system dashboard for rooted LG G5 TVs with webOS 25, showing CPU, RAM, storage, network and process data. ![Stars](https://img.shields.io/github/stars/Schrotty74/LG-G5-Apps?style=flat-square)
+
 ## Privacy and debloating
 
 > ⚠️ **Note:** Blocking updates, telemetry, or network traffic can break apps and TV features. See [SAFETY.md](SAFETY.md) before applying these tools.
