@@ -239,6 +239,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [Glasshouse](https://github.com/rorygallagher2024/glasshouse) - Rooted-TV dashboard with a home screen, app management, debloating, ad blocking, and custom screensavers.
 ![Stars](https://img.shields.io/github/stars/rorygallagher2024/glasshouse?style=flat-square)
 
+- [Native Tv](https://github.com/ihtisham1211/native-tv) - Dashboard, privacy controls and Home Assistant MQTT bridge for rooted TVs, with a native on-TV app and an experimental replacement home screen. A C++ server with no Node on the TV, grown out of Glasshouse. Requires root and the Homebrew Channel; webOS 4 and later. ![Stars](https://img.shields.io/github/stars/ihtisham1211/native-tv?style=flat-square)
+
  
 - [Hearth](https://github.com/rudra-avatar/Hearth) - Customizable home screen with a clock, weather, wallpapers, and app rows. Some features need root.
 ![Stars](https://img.shields.io/github/stars/rudra-avatar/Hearth?style=flat-square)
