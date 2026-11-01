@@ -130,7 +130,7 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [StashWebOS](https://github.com/pustal/StashWebOS) - An unofficial Stash client for LG webOS TVs, made for the remote and careful with the TV's small storage.
 ![Stars](https://img.shields.io/github/stars/pustal/StashWebOS?style=flat-square)
 
-
+- [StremCompat](https://github.com/Alexesmm/stremcompat-lg-webos) - Unofficial Stremio compatibility client for older ARMv7 LG TVs running webOS 3.x and 4.x, with account and addon sync, source quality filters, and native playback. Installs through Developer Mode without root access. ![Stars](https://img.shields.io/github/stars/Alexesmm/stremcompat-lg-webos?style=flat-square)
 
 ## Games and game streaming
 
@@ -164,6 +164,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [Animal Crossing Port for WebOS TVs](https://github.com/pustal/Animal-Crossing-WebOS) - Animal Crossing (GameCube) for LG webOS TVs. Requires the user to own the game to provide the assets.
   ![Stars](https://img.shields.io/github/stars/pustal/Animal-Crossing-WebOS?style=flat-square)
+- [Webmon](https://github.com/pustal/Webmon) - a Pokémon Gen1Recomp runner for WebOS. Root access and external USB drive highly recommended. Very important: read the README thoroughly.
+  ![Stars](https://img.shields.io/github/stars/pustal/Webmon?style=flat-square)
 
 ## Ambilight and lighting
 
@@ -222,6 +224,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [oscar-cam](https://github.com/larrysweb/oscar-cam) - A free, LAN-only camera grid for rooted LG webOS TVs. No account, no cloud, no telemetry. Camera credentials stay on the TV.
 ![Stars](https://img.shields.io/github/stars/larrysweb/oscar-cam?style=flat-square)
 
+- [G5 System Monitor](https://github.com/Schrotty74/LG-G5-Apps/tree/main/apps/system-monitor) - Read-only system dashboard for rooted LG G5 TVs with webOS 25, showing CPU, RAM, storage, network and process data. ![Stars](https://img.shields.io/github/stars/Schrotty74/LG-G5-Apps?style=flat-square)
+
 ## Privacy and debloating
 
 > ⚠️ **Note:** Blocking updates, telemetry, or network traffic can break apps and TV features. See [SAFETY.md](SAFETY.md) before applying these tools.
@@ -239,6 +243,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [Glasshouse](https://github.com/rorygallagher2024/glasshouse) - Rooted-TV dashboard with a home screen, app management, debloating, ad blocking, and custom screensavers.
 ![Stars](https://img.shields.io/github/stars/rorygallagher2024/glasshouse?style=flat-square)
+
+- [Native Tv](https://github.com/ihtisham1211/native-tv) - Dashboard, privacy controls and Home Assistant MQTT bridge for rooted TVs, with a native on-TV app and an experimental replacement home screen. A C++ server with no Node on the TV, grown out of Glasshouse. Requires root and the Homebrew Channel; webOS 4 and later. ![Stars](https://img.shields.io/github/stars/ihtisham1211/native-tv?style=flat-square)
 
  
 - [Hearth](https://github.com/rudra-avatar/Hearth) - Customizable home screen with a clock, weather, wallpapers, and app rows. Some features need root.
@@ -275,6 +281,10 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [webOS Console Home](https://github.com/testtrader1993/webos-console-home) - Console-style home screen with large tiles for HDMI inputs, settings and screen off, installed through Developer Mode without root. Tested on webOS 6.5. ![Stars](https://img.shields.io/github/stars/testtrader1993/webos-console-home?style=flat-square)
 
+- [ATLauncher](https://github.com/ratelimits/atlauncher) - Apple TV-inspired native (QML) home screen with a Liquid Glass Dock, App Store app icons, Top Shelf splashes and TMDB popular shows, for rooted TVs with the Homebrew Channel. Tested on webOS 25 (LG UR8000). ![Stars](https://img.shields.io/github/stars/ratelimits/atlauncher?style=flat-square)
+
+- [Simple LG Launcher](https://github.com/fardroid/Simple-LG-launcher) - Quiet home screen with a clock, weather forecast, Google Calendar (iCal) agenda and a single app row over your own wallpaper, in 13 languages; a fork of Hearth. Full features and replacing LG Home need root and the Homebrew Channel; tested on webOS 25. ![Stars](https://img.shields.io/github/stars/fardroid/Simple-LG-launcher?style=flat-square)
+
 ## Rooting and recovery
 
 > ⚠️ **Caution:** Rooting methods are firmware-specific and may be patched. Verify current compatibility and recovery instructions before proceeding, and read [SAFETY.md](SAFETY.md) first.
@@ -303,6 +313,9 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [LG Input Hook](https://github.com/Simon34545/lginputhook) - Remaps remote-control buttons on supported LG webOS TVs.
 ![Stars](https://img.shields.io/github/stars/Simon34545/lginputhook?style=flat-square)
+
+- [Magic Mapper for webOS](https://github.com/afonsojramos/magic-mapper-webos) - TV-native interface for [Magic Mapper](https://github.com/andrewfraley/magic_mapper) that disables, remaps, or redirects LG Magic Remote buttons without editing JSON over SSH. Requires root and the Homebrew Channel. Tested on an LG C3 running webOS 25.
+![Stars](https://img.shields.io/github/stars/afonsojramos/magic-mapper-webos?style=flat-square)
 
  
 - [LG Remote](https://github.com/heroslender/lg-remote) - Android app for controlling LG TVs over webOS network APIs.
