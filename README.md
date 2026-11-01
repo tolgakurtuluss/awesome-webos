@@ -159,6 +159,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [Animal Crossing Port for WebOS TVs](https://github.com/pustal/Animal-Crossing-WebOS) - Animal Crossing (GameCube) for LG webOS TVs. Requires the user to own the game to provide the assets.
   ![Stars](https://img.shields.io/github/stars/pustal/Animal-Crossing-WebOS?style=flat-square)
+- [Webmon](https://github.com/pustal/Webmon) - a Pokémon Gen1Recomp runner for WebOS. Root access and external USB drive highly recommended. Very important: read the README thoroughly.
+  ![Stars](https://img.shields.io/github/stars/pustal/Webmon?style=flat-square)
 
 ## Ambilight and lighting
 
@@ -268,6 +270,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [webOS Console Home](https://github.com/testtrader1993/webos-console-home) - Console-style home screen with large tiles for HDMI inputs, settings and screen off, installed through Developer Mode without root. Tested on webOS 6.5. ![Stars](https://img.shields.io/github/stars/testtrader1993/webos-console-home?style=flat-square)
 
 - [ATLauncher](https://github.com/ratelimits/atlauncher) - Apple TV-inspired native (QML) home screen with a Liquid Glass Dock, App Store app icons, Top Shelf splashes and TMDB popular shows, for rooted TVs with the Homebrew Channel. Tested on webOS 25 (LG UR8000). ![Stars](https://img.shields.io/github/stars/ratelimits/atlauncher?style=flat-square)
+
+- [Simple LG Launcher](https://github.com/fardroid/Simple-LG-launcher) - Quiet home screen with a clock, weather forecast, Google Calendar (iCal) agenda and a single app row over your own wallpaper, in 13 languages; a fork of Hearth. Full features and replacing LG Home need root and the Homebrew Channel; tested on webOS 25. ![Stars](https://img.shields.io/github/stars/fardroid/Simple-LG-launcher?style=flat-square)
 
 ## Rooting and recovery
 
