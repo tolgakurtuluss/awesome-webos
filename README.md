@@ -46,6 +46,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [Homebrew Channel Updater](https://repo.webosbrew.org/apps/org.webosbrew.safeupdate/) - Keeps the Homebrew Channel up to date.
 
 
+## Apps
+
 ## Media and streaming
 
 - [Kodi](https://repo.webosbrew.org/apps/org.xbmc.kodi/) - Open-source media player and entertainment hub. The catalog lists webOS 4.0 or later as a requirement.
@@ -124,8 +126,7 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [StashWebOS](https://github.com/pustal/StashWebOS) - An unofficial Stash client for LG webOS TVs, made for the remote and careful with the TV's small storage.
 ![Stars](https://img.shields.io/github/stars/pustal/StashWebOS?style=flat-square)
 
-- [StremCompat](https://github.com/Alexesmm/stremcompat-lg-webos) - Unofficial compatibility client for older ARMv7 LG TVs running webOS 3.x and 4.x; installs through Developer Mode without root access.
-![Stars](https://img.shields.io/github/stars/Alexesmm/stremcompat-lg-webos?style=flat-square)
+- [StremCompat](https://github.com/Alexesmm/stremcompat-lg-webos) - Unofficial Stremio compatibility client for older ARMv7 LG TVs running webOS 3.x and 4.x, with account and addon sync, source quality filters, and native playback. Installs through Developer Mode without root access. ![Stars](https://img.shields.io/github/stars/Alexesmm/stremcompat-lg-webos?style=flat-square)
 
 ## Games and game streaming
 
@@ -197,6 +198,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [RustCouch](https://github.com/danzig666/webos-rustdesk-client) - RustDesk-compatible remote desktop client for controlling a Windows, Linux or macOS computer from the TV with the Magic Remote, on-screen keyboard or a USB/Bluetooth keyboard. Tested on an LG C3.
 ![Stars](https://img.shields.io/github/stars/danzig666/webos-rustdesk-client?style=flat-square)
+
+- [LGTV Companion](https://github.com/JPersson77/LGTVCompanion) - Windows utility that turns compatible LG webOS TVs on and off with the PC and provides command-line control and automation. ![Stars](https://img.shields.io/github/stars/JPersson77/LGTVCompanion?style=flat-square)
 
 - [Open Service Menu](https://repo.webosbrew.org/apps/com.open.hidden.menu/) - Opens the TV's hidden service menu.
 
