@@ -178,8 +178,13 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [Hyperion.NG](https://repo.webosbrew.org/apps/org.webosbrew.hyperion.ng.loader/) - Ambient-lighting service that runs on the TV and works with PicCap.
 
+- [HyperDRM](https://gitea.adnau.de/matze19999/HyperDRM) - Ambient Light for webOS, Hyperion/HyperHDR and native ARM service that reads LG color histograms and sends spatial LED colors to a configurable Hyperion or HyperHDR receiver.
+
 - [lg-hue-sync](https://github.com/adeze/lg-hue-sync) - Native LG webOS ambient sync for Philips Hue Entertainment and Nanoleaf 4D.
 ![Stars](https://img.shields.io/github/stars/adeze/lg-hue-sync?style=flat-square)
+
+- [lg-hue-sync-fork](https://github.com/poiedk/lg-hue-sync) - Fork of lg-hue-sync, adds support for WLED, meaning you can do Ambilight with just a $5 ESP32 controller plus a LED strip instead of spendy Hue or Nanoleaf gear.
+![Stars](https://img.shields.io/github/stars/poiedk/lg-hue-sync?style=flat-square)
 
 
 ## Screensavers
@@ -226,6 +231,12 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [G5 System Monitor](https://github.com/Schrotty74/LG-G5-Apps/tree/main/apps/system-monitor) - Read-only system dashboard for rooted LG G5 TVs with webOS 25, showing CPU, RAM, storage, network and process data. ![Stars](https://img.shields.io/github/stars/Schrotty74/LG-G5-Apps?style=flat-square)
 
+- [solar-dash-tv](https://github.com/lockyt/solar-dash-tv) - FoxESS solar + battery dashboard and controls for LG webOS TVs, with Amber Electric prices and price notifications over any app.
+![Stars](https://img.shields.io/github/stars/lockyt/solar-dash-tv?style=flat-square)
+
+- [LG-USB-2-ETH0](https://github.com/ohmybahgosh/LG-USB-2-ETH0) - Make a USB Ethernet adapter the TV's eth0 on rooted LG webOS TVs, safely and at every boot.
+![Stars](https://img.shields.io/github/stars/ohmybahgosh/LG-USB-2-ETH0?style=flat-square)
+
 ## Privacy and debloating
 
 > ⚠️ **Note:** Blocking updates, telemetry, or network traffic can break apps and TV features. See [SAFETY.md](SAFETY.md) before applying these tools.
@@ -246,22 +257,18 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [Native Tv](https://github.com/ihtisham1211/native-tv) - Dashboard, privacy controls and Home Assistant MQTT bridge for rooted TVs, with a native on-TV app and an experimental replacement home screen. A C++ server with no Node on the TV, grown out of Glasshouse. Requires root and the Homebrew Channel; webOS 4 and later. ![Stars](https://img.shields.io/github/stars/ihtisham1211/native-tv?style=flat-square)
 
- 
 - [Hearth](https://github.com/rudra-avatar/Hearth) - Customizable home screen with a clock, weather, wallpapers, and app rows. Some features need root.
 ![Stars](https://img.shields.io/github/stars/rudra-avatar/Hearth?style=flat-square)
 
- 
 - [OpenLauncher](https://github.com/Shantil-K/OpenLauncher) - Launcher with folders, video wallpapers, and widgets. Requires webOS 6 or newer, and some features need root.
 ![Stars](https://img.shields.io/github/stars/Shantil-K/OpenLauncher?style=flat-square)
 
 - [webOS Custom Home](https://github.com/zzeppieri/webos-custom-home) - Ad-free custom home screen for rooted TVs with app and input discovery and widgets.
 ![Stars](https://img.shields.io/github/stars/zzeppieri/webos-custom-home?style=flat-square)
 
- 
 - [LG Luma](https://github.com/ecklf/lg-luma) - Alternative home-screen project for LG TVs.
 ![Stars](https://img.shields.io/github/stars/ecklf/lg-luma?style=flat-square)
 
- 
 - [Free My TV](https://github.com/simbasjungles/free-my-tv) - A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
 ![Stars](https://img.shields.io/github/stars/simbasjungles/free-my-tv?style=flat-square)
 
@@ -274,7 +281,7 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [rivera-interface-beta](https://github.com/mexicanninja250/rivera-interface-beta) - An Apple TV-inspired Home launcher for rooted LG webOS 10 TVs, built on Glasshouse. Scenic backgrounds, app previews, weather, and a smoother entrance.
 ![Stars](https://img.shields.io/github/stars/mexicanninja250/rivera-interface-beta?style=flat-square)
 
-- [CleanYourTV for LG webOS](https://github.com/lasharor/cleanyourtv-WebOS) - A home screen that replaces LG's Home on rooted LG webOS TVs; requires root and the Homebrew Channel. Reported working on webOS 5, 6 and 23 to 26
+- [CleanYourTV](https://github.com/lasharor/cleanyourtv-WebOS) - A home screen that replaces LG's Home on rooted LG webOS TVs; requires root and the Homebrew Channel. Reported working on webOS 5, 6 and 23 to 26
 ![Stars](https://img.shields.io/github/stars/lasharor/cleanyourtv-WebOS?style=flat-square)
 
 - [WiiOS](https://github.com/KaykCaputo/WiiOS-webOS) - Wii-inspired home screen launcher for LG webOS TVs. ![Stars](https://img.shields.io/github/stars/KaykCaputo/WiiOS-webOS?style=flat-square)
@@ -314,13 +321,14 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [LG Input Hook](https://github.com/Simon34545/lginputhook) - Remaps remote-control buttons on supported LG webOS TVs.
 ![Stars](https://img.shields.io/github/stars/Simon34545/lginputhook?style=flat-square)
 
-- [Magic Mapper for webOS](https://github.com/afonsojramos/magic-mapper-webos) - TV-native interface for [Magic Mapper](https://github.com/andrewfraley/magic_mapper) that disables, remaps, or redirects LG Magic Remote buttons without editing JSON over SSH. Requires root and the Homebrew Channel. Tested on an LG C3 running webOS 25.
+- [Magic Mapper](https://github.com/afonsojramos/magic-mapper-webos) - TV-native interface for [Magic Mapper](https://github.com/andrewfraley/magic_mapper) that disables, remaps, or redirects LG Magic Remote buttons without editing JSON over SSH. Requires root and the Homebrew Channel. Tested on an LG C3 running webOS 25.
 ![Stars](https://img.shields.io/github/stars/afonsojramos/magic-mapper-webos?style=flat-square)
 
- 
 - [LG Remote](https://github.com/heroslender/lg-remote) - Android app for controlling LG TVs over webOS network APIs.
 ![Stars](https://img.shields.io/github/stars/heroslender/lg-remote?style=flat-square)
 
+- [LGPower](https://github.com/Nicsilver/LGPower) - Android remote for LG webOS TVs, using the network API and the phone's IR blaster.
+![Stars](https://img.shields.io/github/stars/Nicsilver/LGPower?style=flat-square)
  
 ## Community
 
@@ -339,6 +347,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [Glasshouse network-filtering discussion](https://github.com/rorygallagher2024/glasshouse/discussions/932) - Discussion about network-level filtering on webOS TVs.
 
 - [Guide about rooting your TV](https://tv.slada.sk/guides/rooting-guide) - Guide for rooting shared on "tv.slada.sk" website.
+
+- [webOS Native App Kit](https://github.com/Native-Webos/webos-native-app-kit) - Guide for native (C++/SDL/OpenGL ES) applications development kit.
 
 
 ## Footnotes
