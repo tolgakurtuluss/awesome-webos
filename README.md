@@ -329,6 +329,9 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [LGPower](https://github.com/Nicsilver/LGPower) - Android remote for LG webOS TVs, using the network API and the phone's IR blaster.
 ![Stars](https://img.shields.io/github/stars/Nicsilver/LGPower?style=flat-square)
+
+- [Hearth](https://github.com/mutaaf/hearth) - Self-hosted web remote that finds LG webOS TVs (and Samsung, Roku, Google TV and Apple TV devices) on the home Wi-Fi and controls them from any phone browser over the network, with no accounts or cloud.
+![Stars](https://img.shields.io/github/stars/mutaaf/hearth?style=flat-square)
  
 ## Community
 
