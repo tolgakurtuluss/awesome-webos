@@ -252,6 +252,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 ## Launchers and home screens
 
+- [Clean Your TV](https://github.com/Razdva122/clean-your-tv-lg-webos) - Customizable home screen for LG webOS TVs with themes, an app grid, and a configurable dock. Offers a no-root edition using Developer Mode and an edition for TVs with existing root access. ![Stars](https://img.shields.io/github/stars/Razdva122/clean-your-tv-lg-webos?style=flat-square)
+
 - [Glasshouse](https://github.com/rorygallagher2024/glasshouse) - Rooted-TV dashboard with a home screen, app management, debloating, ad blocking, and custom screensavers.
 ![Stars](https://img.shields.io/github/stars/rorygallagher2024/glasshouse?style=flat-square)
 
