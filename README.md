@@ -252,8 +252,6 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 ## Launchers and home screens
 
-- [Clean Your TV](https://github.com/Razdva122/clean-your-tv-lg-webos) - Customizable home screen for LG webOS TVs with themes, an app grid, and a configurable dock. Offers a no-root edition using Developer Mode and an edition for TVs with existing root access. ![Stars](https://img.shields.io/github/stars/Razdva122/clean-your-tv-lg-webos?style=flat-square)
-
 - [Glasshouse](https://github.com/rorygallagher2024/glasshouse) - Rooted-TV dashboard with a home screen, app management, debloating, ad blocking, and custom screensavers.
 ![Stars](https://img.shields.io/github/stars/rorygallagher2024/glasshouse?style=flat-square)
 
@@ -293,6 +291,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [ATLauncher](https://github.com/ratelimits/atlauncher) - Apple TV-inspired native (QML) home screen with a Liquid Glass Dock, App Store app icons, Top Shelf splashes and TMDB popular shows, for rooted TVs with the Homebrew Channel. Tested on webOS 25 (LG UR8000). ![Stars](https://img.shields.io/github/stars/ratelimits/atlauncher?style=flat-square)
 
 - [Simple LG Launcher](https://github.com/fardroid/Simple-LG-launcher) - Quiet home screen with a clock, weather forecast, Google Calendar (iCal) agenda and a single app row over your own wallpaper, in 13 languages; a fork of Hearth. Full features and replacing LG Home need root and the Homebrew Channel; tested on webOS 25. ![Stars](https://img.shields.io/github/stars/fardroid/Simple-LG-launcher?style=flat-square)
+
+- [Clean Your TV](https://github.com/Razdva122/clean-your-tv-lg-webos) - Customizable home screen for LG webOS TVs with themes, an app grid, and a configurable dock. Offers a no-root edition using Developer Mode and an edition for TVs with existing root access. ![Stars](https://img.shields.io/github/stars/Razdva122/clean-your-tv-lg-webos?style=flat-square)
 
 ## Rooting and recovery
 
