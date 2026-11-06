@@ -263,7 +263,7 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [Hearth](https://github.com/rudra-avatar/Hearth) - Customizable home screen with a clock, weather, wallpapers, and app rows. Some features need root.
 ![Stars](https://img.shields.io/github/stars/rudra-avatar/Hearth?style=flat-square)
 
-- [OpenLauncher](https://github.com/Shantil-K/OpenLauncher) - Launcher with folders, video wallpapers, and widgets. Requires webOS 6 or newer, and some features need root.
+- [OpenLauncher](https://github.com/Shantil-K/OpenLauncher) - Home screen with video and photo wallpapers, folders, custom icons, and widgets. Root lets it replace the stock Home; without root, open it with Quick Access or a companion script on another device. webOS 6+, webOS 5 in beta.
 ![Stars](https://img.shields.io/github/stars/Shantil-K/OpenLauncher?style=flat-square)
 
 - [webOS Custom Home](https://github.com/zzeppieri/webos-custom-home) - Ad-free custom home screen for rooted TVs with app and input discovery and widgets.
