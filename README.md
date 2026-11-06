@@ -113,9 +113,6 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [Nuvio Native Legacy](https://github.com/iqui27/nuvio-native-legacy) - Native media application project for webOS.
 ![Stars](https://img.shields.io/github/stars/iqui27/nuvio-native-legacy?style=flat-square)
 
-- [StremCompat](https://github.com/Alexesmm/stremcompat-lg-webos) - Unofficial Stremio-compatible lightweight app for older ARMv7 LG TVs (2016 - 2019 models/webOS 3.x/4.x), featuring account sync, addon support, quality filters, and native playback. Installs via Developer Mode without root.
-![Stars](https://img.shields.io/github/stars/Alexesmm/stremcompat-lg-webos?style=flat-square)
-
 - [Decoder bench](https://repo.webosbrew.org/apps/io.github.beatcracker.decoderbench/) - Tool for testing the TV's video decoding capabilities.
 
 - [native-jelly](https://github.com/sostk/native-jelly) - A native Jellyfin client adapted from PLX Native, with a modern TV-focused interface and Jellyfin support.
@@ -131,6 +128,9 @@ To use the official Developer Mode, you need a free LG Developer account and the
 ![Stars](https://img.shields.io/github/stars/pustal/StashWebOS?style=flat-square)
 
 - [StremCompat](https://github.com/Alexesmm/stremcompat-lg-webos) - Unofficial Stremio compatibility client for older ARMv7 LG TVs running webOS 3.x and 4.x, with account and addon sync, source quality filters, and native playback. Installs through Developer Mode without root access. ![Stars](https://img.shields.io/github/stars/Alexesmm/stremcompat-lg-webos?style=flat-square)
+
+- [TiviBro](https://github.com/ohmybahgosh/TiviBro) - TiviMate-style IPTV player with a channel guide and catch-up, for Xtream Codes or M3U playlists. Developed with AI assistance, according to its README.
+![Stars](https://img.shields.io/github/stars/ohmybahgosh/TiviBro?style=flat-square)
 
 ## Games and game streaming
 
@@ -234,8 +234,11 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [solar-dash-tv](https://github.com/lockyt/solar-dash-tv) - FoxESS solar + battery dashboard and controls for LG webOS TVs, with Amber Electric prices and price notifications over any app.
 ![Stars](https://img.shields.io/github/stars/lockyt/solar-dash-tv?style=flat-square)
 
-- [LG-USB-2-ETH0](https://github.com/ohmybahgosh/LG-USB-2-ETH0) - Make a USB Ethernet adapter the TV's eth0 on rooted LG webOS TVs, safely and at every boot.
+- [LG-USB-2-ETH0](https://github.com/ohmybahgosh/LG-USB-2-ETH0) - Make a USB Ethernet adapter the TV's eth0 on rooted LG webOS TVs, safely and at every boot. Developed with AI assistance, according to its README.
 ![Stars](https://img.shields.io/github/stars/ohmybahgosh/LG-USB-2-ETH0?style=flat-square)
+
+- [WebOS Entware Installer](https://github.com/ohmybahgosh/WEBOS-ENTWARE-INSTALLER) - Installs Entware on rooted TVs with the Homebrew Channel, with a TV app for packages and add-ons. Developed with AI assistance, according to its README.
+![Stars](https://img.shields.io/github/stars/ohmybahgosh/WEBOS-ENTWARE-INSTALLER?style=flat-square)
 
 ## Privacy and debloating
 
