@@ -129,7 +129,7 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [StremCompat](https://github.com/Alexesmm/stremcompat-lg-webos) - Unofficial Stremio compatibility client for older ARMv7 LG TVs running webOS 3.x and 4.x, with account and addon sync, source quality filters, and native playback. Installs through Developer Mode without root access. ![Stars](https://img.shields.io/github/stars/Alexesmm/stremcompat-lg-webos?style=flat-square)
 
-- [TiviBro](https://github.com/ohmybahgosh/TiviBro) - TiviMate-style IPTV player for LG webOS 4 and newer, with a channel guide, catch-up, movies and shows, and a phone web editor, for Xtream Codes or M3U playlists. In alpha, installs through the Homebrew Channel or Developer Mode without root, and is developed with AI coding agents according to its README.
+- [TiviBro](https://github.com/ohmybahgosh/TiviBro) - TiviMate-style IPTV player with a channel guide and catch-up, for Xtream Codes or M3U playlists. Developed with AI assistance, according to its README.
 ![Stars](https://img.shields.io/github/stars/ohmybahgosh/TiviBro?style=flat-square)
 
 ## Games and game streaming
@@ -234,10 +234,10 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [solar-dash-tv](https://github.com/lockyt/solar-dash-tv) - FoxESS solar + battery dashboard and controls for LG webOS TVs, with Amber Electric prices and price notifications over any app.
 ![Stars](https://img.shields.io/github/stars/lockyt/solar-dash-tv?style=flat-square)
 
-- [LG-USB-2-ETH0](https://github.com/ohmybahgosh/LG-USB-2-ETH0) - Make a USB Ethernet adapter the TV's eth0 on rooted LG webOS TVs, safely and at every boot. Includes a Homebrew Channel TV app and checksum-verified Realtek and ASIX driver installs, and is developed with AI coding agents according to its README.
+- [LG-USB-2-ETH0](https://github.com/ohmybahgosh/LG-USB-2-ETH0) - Make a USB Ethernet adapter the TV's eth0 on rooted LG webOS TVs, safely and at every boot. Developed with AI assistance, according to its README.
 ![Stars](https://img.shields.io/github/stars/ohmybahgosh/LG-USB-2-ETH0?style=flat-square)
 
-- [WebOS Entware Installer](https://github.com/ohmybahgosh/WEBOS-ENTWARE-INSTALLER) - Installs Entware on rooted LG webOS TVs with the Homebrew Channel, keeping it through reboots and uninstalling cleanly. Includes a TV app for add-ons and package updates, and is developed with AI coding agents according to its README.
+- [WebOS Entware Installer](https://github.com/ohmybahgosh/WEBOS-ENTWARE-INSTALLER) - Installs Entware on rooted TVs with the Homebrew Channel, with a TV app for packages and add-ons. Developed with AI assistance, according to its README.
 ![Stars](https://img.shields.io/github/stars/ohmybahgosh/WEBOS-ENTWARE-INSTALLER?style=flat-square)
 
 ## Privacy and debloating
