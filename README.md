@@ -292,6 +292,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [Simple LG Launcher](https://github.com/fardroid/Simple-LG-launcher) - Quiet home screen with a clock, weather forecast, Google Calendar (iCal) agenda and a single app row over your own wallpaper, in 13 languages; a fork of Hearth. Full features and replacing LG Home need root and the Homebrew Channel; tested on webOS 25. ![Stars](https://img.shields.io/github/stars/fardroid/Simple-LG-launcher?style=flat-square)
 
+- [Clean Your TV](https://github.com/Razdva122/clean-your-tv-lg-webos) - Customizable home screen for LG webOS TVs with themes, an app grid, and a configurable dock. Offers a no-root edition using Developer Mode and an edition for TVs with existing root access. ![Stars](https://img.shields.io/github/stars/Razdva122/clean-your-tv-lg-webos?style=flat-square)
+
 ## Rooting and recovery
 
 > ⚠️ **Caution:** Rooting methods are firmware-specific and may be patched. Verify current compatibility and recovery instructions before proceeding, and read [SAFETY.md](SAFETY.md) first.
