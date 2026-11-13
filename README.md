@@ -243,6 +243,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [Speedtest CLI](https://github.com/danzig666/webos-speedtest) - Runs the official Ookla Speedtest CLI on the TV and shows its live terminal output, followed by a results screen with download, upload, latency and throughput charts. Downloads the official CLI itself (SHA-256 pinned) and asks you to accept Ookla's terms in the app. Requires root and the Homebrew Channel. Tested on an LG C3 running webOS 10.2.2. Developed with AI assistance.
 ![Stars](https://img.shields.io/github/stars/danzig666/webos-speedtest?style=flat-square)
 
+- [NightLight](https://github.com/evilbananas/nightlight-webos) - Turns Eye Comfort Mode (LG's blue light filter) on in the evening and off in the morning, following sunset and sunrise (with an optional offset) or fixed times. Requires root and the Homebrew Channel. Tested on webOS 10.3.1. ![Stars](https://img.shields.io/github/stars/evilbananas/nightlight-webos?style=flat-square)
+
 ## Privacy and debloating
 
 > ⚠️ **Note:** Blocking updates, telemetry, or network traffic can break apps and TV features. See [SAFETY.md](SAFETY.md) before applying these tools.
