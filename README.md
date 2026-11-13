@@ -199,6 +199,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 ## TV utilities
 
+- [SynergyWebOS](https://github.com/ryanspice/SynergyWebOS) - Native Synergy keyboard and mouse client for rooted LG webOS TVs, with separately provisioned input services. Its 0.4.1 candidate adds an optional Windows XInput bridge; physical controller validation is pending. ![Stars](https://img.shields.io/github/stars/ryanspice/SynergyWebOS?style=flat-square)
+
 - [VPN Client](https://repo.webosbrew.org/apps/com.sk.app.lgtv-vpn/) - OpenVPN client with a control interface for webOS.
 
 - [WireGuard VPN](https://repo.webosbrew.org/apps/com.github.cfernande1470.wireguard/) - WireGuard VPN client for webOS.
