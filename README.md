@@ -149,6 +149,9 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [Punktfunk](https://repo.webosbrew.org/apps/io.unom.punktfunk.client-webos/) - Game-streaming client listed under games in the Homebrew catalog.
 
+- [Hotaru](https://github.com/renjfk/hotaru-webos) - Native PlayStation Remote Play client for LG webOS TVs, built on chiaki-ng's libchiaki. Installs in Developer Mode or through the Homebrew Channel on a rooted TV; currently an early beta tested on webOS 6.
+![Stars](https://img.shields.io/github/stars/renjfk/hotaru-webos?style=flat-square)
+
 - [PocketVibe](https://github.com/tolgakurtuluss/pocketvibe-webos) - webOS port of [PocketVibe](https://github.com/cobanov/pocketvibe), a launcher and collection of Three.js games.
 ![Stars](https://img.shields.io/github/stars/tolgakurtuluss/pocketvibe-webos?style=flat-square)
 
