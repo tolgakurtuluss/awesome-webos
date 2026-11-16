@@ -85,6 +85,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [youtube-webos-fork](https://github.com/foxi69/youtube-webos) - Another fork of unofficial YouTube app for webOS without ads.
 ![Stars](https://img.shields.io/github/stars/foxi69/youtube-webos?style=flat-square)
 
+- [YouTube webOS Cobalt AdFree](https://github.com/RF1705/youtube-webos-cobalt-adfree) - Unofficial Cobalt-based YouTube client for webOS TVs with ad blocking and SponsorBlock support. Installs through the Homebrew Channel and replaces the official YouTube app. ![Stars](https://img.shields.io/github/stars/RF1705/youtube-webos-cobalt-adfree?style=flat-square)
+
 - [Twitch AdFree](https://repo.webosbrew.org/apps/twitch.adamffdev.v1/) - Twitch client for webOS TVs.
 
 - [SmartTwitchWebOSTV](https://repo.webosbrew.org/apps/com.tbsniller.smarttwitchwebostv/) - Twitch client with a TV-focused experience.
