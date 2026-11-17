@@ -85,6 +85,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [youtube-webos-fork](https://github.com/foxi69/youtube-webos) - Another fork of unofficial YouTube app for webOS without ads.
 ![Stars](https://img.shields.io/github/stars/foxi69/youtube-webos?style=flat-square)
 
+- [YouTube webOS Cobalt AdFree](https://github.com/RF1705/youtube-webos-cobalt-adfree) - Unofficial Cobalt-based YouTube client for webOS TVs with ad blocking and SponsorBlock support. Installs through the Homebrew Channel and replaces the official YouTube app. ![Stars](https://img.shields.io/github/stars/RF1705/youtube-webos-cobalt-adfree?style=flat-square)
+
 - [ytnative](https://github.com/danzig666/ytnative) - Ad-free native YouTube client written in Rust, a port of SmartTube. Plays up to 4K60 with HDR10 (AV1), with SponsorBlock, sign-in and account features, and installs from its own Homebrew Channel repository. Does not require root. Needs webOS 4 or newer; tested on an LG C3 (webOS 23), an LG BX (webOS 5.5) and an LG C9 (webOS 4.10). Developed with AI assistance.
 ![Stars](https://img.shields.io/github/stars/danzig666/ytnative?style=flat-square)
 
