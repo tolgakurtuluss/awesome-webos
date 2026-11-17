@@ -167,6 +167,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [Webmon](https://github.com/pustal/Webmon) - a Pokémon Gen1Recomp runner for WebOS. Root access and external USB drive highly recommended. Very important: read the README thoroughly.
   ![Stars](https://img.shields.io/github/stars/pustal/Webmon?style=flat-square)
 
+- [SkiFreeWebOS](https://github.com/ryanspice/SkifreeWebOS) - Native C++/GLES2 port of SkiFree for LG webOS TVs, with Original (Slalom, Tree Slalom, Freestyle), Recreation and Yeti Chase modes, Magic Remote, mouse and keyboard controls, and local score tables. Tested on an LG C3 (webOS 11.2.0); installed through Developer Mode without root. ![Stars](https://img.shields.io/github/stars/ryanspice/SkifreeWebOS?style=flat-square)
+
 ## Ambilight and lighting
 
 - [PicCap](https://github.com/TBSniller/piccap) - Ambilight sender app that works with compatible Hyperion setups.
