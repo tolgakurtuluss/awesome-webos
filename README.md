@@ -88,9 +88,15 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [ytnative](https://github.com/danzig666/ytnative) - Ad-free native YouTube client written in Rust, a port of SmartTube. Plays up to 4K60 with HDR10 (AV1), with SponsorBlock, sign-in and account features, and installs from its own Homebrew Channel repository. Does not require root. Needs webOS 4 or newer; tested on an LG C3 (webOS 23), an LG BX (webOS 5.5) and an LG C9 (webOS 4.10). Developed with AI assistance.
 ![Stars](https://img.shields.io/github/stars/danzig666/ytnative?style=flat-square)
 
+- [Bolli YouTube](https://github.com/aktiwers/bolli-youtube) - Unofficial YouTube client for LG webOS TVs with its own player, ad blocking, SponsorBlock, DeArrow, Return YouTube Dislike, and casting from the YouTube and YouTube Music phone apps. Tested on an LG C7 with webOS 3.9; developed with AI assistance.
+![Stars](https://img.shields.io/github/stars/aktiwers/bolli-youtube?style=flat-square)
+
 - [Twitch AdFree](https://repo.webosbrew.org/apps/twitch.adamffdev.v1/) - Twitch client for webOS TVs.
 
 - [SmartTwitchWebOSTV](https://repo.webosbrew.org/apps/com.tbsniller.smarttwitchwebostv/) - Twitch client with a TV-focused experience.
+
+- [Bolli Twitch](https://github.com/aktiwers/bolli-twitch) - Unofficial Twitch client for LG webOS TVs modelled on Twitch's TV app, with ad-free live streams and past broadcasts up to 1080p60, chat with third-party emotes, and channel points. Tested on an LG C7 with webOS 3.9; developed with AI assistance.
+![Stars](https://img.shields.io/github/stars/aktiwers/bolli-twitch?style=flat-square)
 
 - [Crunchyroll](https://repo.webosbrew.org/apps/com.crunchyroll.webos/) - Crunchyroll client for webOS.
 
@@ -170,6 +176,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [Webmon](https://github.com/pustal/Webmon) - a Pokémon Gen1Recomp runner for WebOS. Root access and external USB drive highly recommended. Very important: read the README thoroughly.
   ![Stars](https://img.shields.io/github/stars/pustal/Webmon?style=flat-square)
 
+- [SkiFreeWebOS](https://github.com/ryanspice/SkifreeWebOS) - Native C++/GLES2 port of SkiFree for LG webOS TVs, with Original (Slalom, Tree Slalom, Freestyle), Recreation and Yeti Chase modes, Magic Remote, mouse and keyboard controls, and local score tables. Tested on an LG C3 (webOS 11.2.0); installed through Developer Mode without root. ![Stars](https://img.shields.io/github/stars/ryanspice/SkifreeWebOS?style=flat-square)
+
 ## Ambilight and lighting
 
 - [PicCap](https://github.com/TBSniller/piccap) - Ambilight sender app that works with compatible Hyperion setups.
@@ -245,6 +253,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [Speedtest CLI](https://github.com/danzig666/webos-speedtest) - Runs the official Ookla Speedtest CLI on the TV and shows its live terminal output, followed by a results screen with download, upload, latency and throughput charts. Downloads the official CLI itself (SHA-256 pinned) and asks you to accept Ookla's terms in the app. Requires root and the Homebrew Channel. Tested on an LG C3 running webOS 10.2.2. Developed with AI assistance.
 ![Stars](https://img.shields.io/github/stars/danzig666/webos-speedtest?style=flat-square)
+
+- [NightLight](https://github.com/evilbananas/nightlight-webos) - Turns Eye Comfort Mode (LG's blue light filter) on in the evening and off in the morning, following sunset and sunrise (with an optional offset) or fixed times. Requires root and the Homebrew Channel. Tested on webOS 10.3.1. ![Stars](https://img.shields.io/github/stars/evilbananas/nightlight-webos?style=flat-square)
 
 ## Privacy and debloating
 
