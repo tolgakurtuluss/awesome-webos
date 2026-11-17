@@ -85,9 +85,15 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [youtube-webos-fork](https://github.com/foxi69/youtube-webos) - Another fork of unofficial YouTube app for webOS without ads.
 ![Stars](https://img.shields.io/github/stars/foxi69/youtube-webos?style=flat-square)
 
+- [Bolli YouTube](https://github.com/aktiwers/bolli-youtube) - Unofficial YouTube client for LG webOS TVs with its own player, ad blocking, SponsorBlock, DeArrow, Return YouTube Dislike, and casting from the YouTube and YouTube Music phone apps. Tested on an LG C7 with webOS 3.9; developed with AI assistance.
+![Stars](https://img.shields.io/github/stars/aktiwers/bolli-youtube?style=flat-square)
+
 - [Twitch AdFree](https://repo.webosbrew.org/apps/twitch.adamffdev.v1/) - Twitch client for webOS TVs.
 
 - [SmartTwitchWebOSTV](https://repo.webosbrew.org/apps/com.tbsniller.smarttwitchwebostv/) - Twitch client with a TV-focused experience.
+
+- [Bolli Twitch](https://github.com/aktiwers/bolli-twitch) - Unofficial Twitch client for LG webOS TVs modelled on Twitch's TV app, with ad-free live streams and past broadcasts up to 1080p60, chat with third-party emotes, and channel points. Tested on an LG C7 with webOS 3.9; developed with AI assistance.
+![Stars](https://img.shields.io/github/stars/aktiwers/bolli-twitch?style=flat-square)
 
 - [Crunchyroll](https://repo.webosbrew.org/apps/com.crunchyroll.webos/) - Crunchyroll client for webOS.
 
