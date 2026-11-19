@@ -143,7 +143,7 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [StremCompat](https://github.com/Alexesmm/stremcompat-lg-webos) - Unofficial Stremio compatibility client for older ARMv7 LG TVs running webOS 3.x and 4.x, with account and addon sync, source quality filters, and native playback. Installs through Developer Mode without root access. ![Stars](https://img.shields.io/github/stars/Alexesmm/stremcompat-lg-webos?style=flat-square)
 
-- [Stremio Origin](https://github.com/danzig666/ytnative) - A native TV app for Stremio addons, written in C, for LG webOS 4+ TVs.
+- [Stremio Origin](https://github.com/stremio-origin/webos) - A native TV app for Stremio addons, written in C, for LG webOS 4+ TVs.
 ![Stars](https://img.shields.io/github/stars/stremio-origin/webos?style=flat-square)
 
 - [TiviBro](https://github.com/ohmybahgosh/TiviBro) - TiviMate-style IPTV player with a channel guide and catch-up, for Xtream Codes or M3U playlists. Developed with AI assistance, according to its README.
