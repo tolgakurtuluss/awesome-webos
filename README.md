@@ -121,8 +121,11 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [DecoTV](https://repo.webosbrew.org/apps/com.cheerchen.decotv/) - Media app available through the Homebrew Channel.
 
-- [Nuvio Native Legacy](https://github.com/iqui27/nuvio-native-legacy) - Native media application project for webOS.
+- [Nuvio Native Legacy](https://github.com/iqui27/nuvio-native-legacy) - An unofficial native Nuvio client app for LG webOS 3+ TVs.
 ![Stars](https://img.shields.io/github/stars/iqui27/nuvio-native-legacy?style=flat-square)
+
+- [Nuvio TV (Smart)](https://github.com/NuvioMedia/NuvioTVSmart) - Official Chromium web-based Nuvio client app. Nuvio TV supports LG webOS TVs from 2020 onward (webOS 5+).
+![Stars](https://img.shields.io/github/stars/NuvioMedia/NuvioTVSmart?style=flat-square)
 
 - [Decoder bench](https://repo.webosbrew.org/apps/io.github.beatcracker.decoderbench/) - Tool for testing the TV's video decoding capabilities.
 
@@ -139,6 +142,9 @@ To use the official Developer Mode, you need a free LG Developer account and the
 ![Stars](https://img.shields.io/github/stars/pustal/StashWebOS?style=flat-square)
 
 - [StremCompat](https://github.com/Alexesmm/stremcompat-lg-webos) - Unofficial Stremio compatibility client for older ARMv7 LG TVs running webOS 3.x and 4.x, with account and addon sync, source quality filters, and native playback. Installs through Developer Mode without root access. ![Stars](https://img.shields.io/github/stars/Alexesmm/stremcompat-lg-webos?style=flat-square)
+
+- [Stremio Origin](https://github.com/danzig666/ytnative) - A native TV app for Stremio addons, written in C, for LG webOS 4+ TVs.
+![Stars](https://img.shields.io/github/stars/stremio-origin/webos?style=flat-square)
 
 - [TiviBro](https://github.com/ohmybahgosh/TiviBro) - TiviMate-style IPTV player with a channel guide and catch-up, for Xtream Codes or M3U playlists. Developed with AI assistance, according to its README.
 ![Stars](https://img.shields.io/github/stars/ohmybahgosh/TiviBro?style=flat-square)
