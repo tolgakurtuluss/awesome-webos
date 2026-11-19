@@ -186,6 +186,9 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [SkiFreeWebOS](https://github.com/ryanspice/SkifreeWebOS) - Native C++/GLES2 port of SkiFree for LG webOS TVs, with Original (Slalom, Tree Slalom, Freestyle), Recreation and Yeti Chase modes, Magic Remote, mouse and keyboard controls, and local score tables. Tested on an LG C3 (webOS 11.2.0); installed through Developer Mode without root. ![Stars](https://img.shields.io/github/stars/ryanspice/SkifreeWebOS?style=flat-square)
 
+- [Hotaru](https://github.com/renjfk/hotaru-webos) - Native PlayStation Remote Play client for LG webOS TVs, built on chiaki-ng's libchiaki. Installs in Developer Mode or through the Homebrew Channel on a rooted TV.
+![Stars](https://img.shields.io/github/stars/renjfk/hotaru-webos?style=flat-square)
+
 ## Ambilight and lighting
 
 - [PicCap](https://github.com/TBSniller/piccap) - Ambilight sender app that works with compatible Hyperion setups.
