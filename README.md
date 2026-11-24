@@ -377,6 +377,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [LG TV GitHub Stars list](https://github.com/stars/m1804-code/lists/lg-tv) - Community-curated list of LG TV-related repositories.
 
+- [cobuild: LG TVs](https://cobuild.sh/devices/lg-tvs) - Catalog of 40 open-source apps and tools for LG webOS TVs, grouped by what they do, with supported model years.
+
 - [How to Install and Set Up Ambilight on LG webOS](https://github.com/satgit62/How-to-Install-and-set-up-Ambilight-on-LG-webOS) - Setup guide for PicCap with Hyperion or HyperHDR.
 
 - [Glasshouse network-filtering discussion](https://github.com/rorygallagher2024/glasshouse/discussions/932) - Discussion about network-level filtering on webOS TVs.
