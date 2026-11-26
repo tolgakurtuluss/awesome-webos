@@ -176,11 +176,18 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [gfn-webos](https://github.com/duffpl/gfn-webos) - Unofficial native GeForce NOW client for LG webOS TVs, built on OpenNOW.
 ![Stars](https://img.shields.io/github/stars/duffpl/gfn-webos?style=flat-square)
 
-- [SonicWebMania](https://github.com/pustal/SonicWebMania) - Sonic Mania for LG webOS TVs. Requires the user to own the game to provide the assets.
+- [SonicWebMania](https://github.com/pustal/SonicWebMania) - Sonic Mania + Sonic 1, 2, CD and Sonic Nexus for LG webOS TVs. Requires the user to own the game(s) to provide the assets.
 ![Stars](https://img.shields.io/github/stars/pustal/SonicWebMania?style=flat-square)
+
+- [Sonic 3 - Angel Island Revisited for WebOS](https://github.com/pustal/Sonic-3-A.I.R.-Knuckles-Web) - Sonic 3 - Angel Island Revisited for LG webOS TVs. Requires the user to own Sonic 3 and Knucles to provide the ROM file.
+![Stars](https://img.shields.io/github/stars/pustal/Sonic-3-A.I.R.-Knuckles-Web?style=flat-square)
+
+- [Web Mario 64](https://github.com/pustal/Web-Mario-64) - uper Mario 64 for LG webOS TVs, built from Ghostship, HarbourMasters' PC port of the Super Mario 64 decompilation. Requires the user to own the game to provide the assets.
+  ![Stars](https://img.shields.io/github/stars/pustal/Web-Mario-64?style=flat-square)
 
 - [Animal Crossing Port for WebOS TVs](https://github.com/pustal/Animal-Crossing-WebOS) - Animal Crossing (GameCube) for LG webOS TVs. Requires the user to own the game to provide the assets.
   ![Stars](https://img.shields.io/github/stars/pustal/Animal-Crossing-WebOS?style=flat-square)
+
 - [Webmon](https://github.com/pustal/Webmon) - a Pokémon Gen1Recomp runner for WebOS. Root access and external USB drive highly recommended. Very important: read the README thoroughly.
   ![Stars](https://img.shields.io/github/stars/pustal/Webmon?style=flat-square)
 
@@ -266,6 +273,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 ![Stars](https://img.shields.io/github/stars/danzig666/webos-speedtest?style=flat-square)
 
 - [NightLight](https://github.com/evilbananas/nightlight-webos) - Turns Eye Comfort Mode (LG's blue light filter) on in the evening and off in the morning, following sunset and sunrise (with an optional offset) or fixed times. Requires root and the Homebrew Channel. Tested on webOS 10.3.1. ![Stars](https://img.shields.io/github/stars/evilbananas/nightlight-webos?style=flat-square)
+
+- [WebSpace](https://github.com/pustal/WebSpace) - A small app for LG webOS TVs that lists the installed apps and the storage each one uses, so you can see what is filling the TV. Requires root access. ![Stars](https://img.shields.io/github/stars/pustal/WebSpace?style=flat-square)
 
 ## Privacy and debloating
 
