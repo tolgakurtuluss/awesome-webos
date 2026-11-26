@@ -274,7 +274,7 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [NightLight](https://github.com/evilbananas/nightlight-webos) - Turns Eye Comfort Mode (LG's blue light filter) on in the evening and off in the morning, following sunset and sunrise (with an optional offset) or fixed times. Requires root and the Homebrew Channel. Tested on webOS 10.3.1. ![Stars](https://img.shields.io/github/stars/evilbananas/nightlight-webos?style=flat-square)
 
-- [WebSpace](https://github.com/pustal/WebSpace) - A small app for LG webOS TVs that lists the installed apps and the storage each one uses, so you can see what is filling the TV.![Stars](https://img.shields.io/github/stars/pustal/WebSpace?style=flat-square)
+- [WebSpace](https://github.com/pustal/WebSpace) - A small app for LG webOS TVs that lists the installed apps and the storage each one uses, so you can see what is filling the TV. Requires root access. ![Stars](https://img.shields.io/github/stars/pustal/WebSpace?style=flat-square)
 
 ## Privacy and debloating
 
