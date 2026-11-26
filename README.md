@@ -182,7 +182,7 @@ To use the official Developer Mode, you need a free LG Developer account and the
 - [Sonic 3 - Angel Island Revisited for WebOS](https://github.com/pustal/Sonic-3-A.I.R.-Knuckles-Web) - Sonic 3 - Angel Island Revisited for LG webOS TVs. Requires the user to own Sonic 3 and Knucles to provide the ROM file.
 ![Stars](https://img.shields.io/github/stars/pustal/Sonic-3-A.I.R.-Knuckles-Web?style=flat-square)
 
-- [Web Mario 64](https://github.com/pustal/https://github.com/pustal/Web-Mario-64) - uper Mario 64 for LG webOS TVs, built from Ghostship, HarbourMasters' PC port of the Super Mario 64 decompilation. Requires the user to own the game to provide the assets.
+- [Web Mario 64](https://github.com/pustal/Web-Mario-64) - uper Mario 64 for LG webOS TVs, built from Ghostship, HarbourMasters' PC port of the Super Mario 64 decompilation. Requires the user to own the game to provide the assets.
   ![Stars](https://img.shields.io/github/stars/pustal/Web-Mario-64?style=flat-square)
 
 - [Animal Crossing Port for WebOS TVs](https://github.com/pustal/Animal-Crossing-WebOS) - Animal Crossing (GameCube) for LG webOS TVs. Requires the user to own the game to provide the assets.
