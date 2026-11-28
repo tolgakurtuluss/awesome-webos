@@ -324,6 +324,8 @@ To use the official Developer Mode, you need a free LG Developer account and the
 
 - [Clean Your TV](https://github.com/Razdva122/clean-your-tv-lg-webos) - Customizable home screen for LG webOS TVs with themes, an app grid, and a configurable dock. Offers a no-root edition using Developer Mode and an edition for TVs with existing root access. ![Stars](https://img.shields.io/github/stars/Razdva122/clean-your-tv-lg-webos?style=flat-square)
 
+- [tvlauncher](https://github.com/Mokto/tvlauncher) - Native Rust and SDL2 home screen and media player for rooted LG TVs, with Jellyfin, Plex and live TV, drawn without a browser or WebView. Requires root and the Homebrew Channel. Tested on an LG C1 with webOS 6.5.3. ![Stars](https://img.shields.io/github/stars/Mokto/tvlauncher?style=flat-square)
+
 ## Rooting and recovery
 
 > ⚠️ **Caution:** Rooting methods are firmware-specific and may be patched. Verify current compatibility and recovery instructions before proceeding, and read [SAFETY.md](SAFETY.md) first.
